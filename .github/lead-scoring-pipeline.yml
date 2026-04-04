@@ -1,9 +1,9 @@
 name: Daily RevOps Pipeline
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # runs every day at 6am UTC
-  workflow_dispatch:  # allows manual trigger
+  #schedule:
+    #- cron: '0 6 * * *'  # runs every day at 6am UTC
+  workflow_dispatch:  # allows manual trigger #by commenting out schedule and cron, now allows manual trigger ONLY
 
 jobs:
   run-pipeline:
