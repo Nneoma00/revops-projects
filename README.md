@@ -5,8 +5,7 @@ I'm a backend engineer specializing in Revenue Operations for teams of various s
 I handle AI Integrations, CRM automations, custom API development, sales pipelines, sales forecasting, among others.
 My strength lies at the intersection of RevOps + Engineering.
 
-To help you decide if I'm the right fit for your business, here are a few projects I've built (similar ones deployed for past clients), which required not just extensive experience with CRM software, 
-but also hands-on engineering experience, data analysis & visualization. 
+To help you decide if I'm the right fit for your business, here are a few projects I've built (similar ones deployed for past clients), which required not just extensive experience with CRM software, but also hands-on engineering experience, data analysis & visualization. 
 P.S: I don't use low-code tools very much as I can build custom integrations from scratch. But I do have clients who specifically request them, so I've learnt to use tools like n8n and Make.com, to drive the same reults.
 
 # Projects ⬇️
@@ -32,4 +31,4 @@ appointments into Google Sheets for real-time operational visibility
 — without requiring a CRM.
 
 **Stack:** Python · FastAPI · Twilio · Google Sheets API · Gemini  
-**[View repo and demo →]
+**[View repo and demo →](https://github.com/Nneoma00/whatsapp_ai_bot/blob/main)**
