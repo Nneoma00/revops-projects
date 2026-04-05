@@ -23,6 +23,9 @@ involvement.
 **[View project →](https://github.com/Nneoma00/revops-projects/tree/main/revops-lead-scoring)**
 
 ## 02 — Automated lead-to-appointment system
+![Whatsapp Automated Lead-to-Appointment Workflow](https://github.com/Nneoma00/revops-projects/blob/main/demos/whatsapp-bot-flow.png)
+
+
 Helped a real estate agent eliminate manual scheduling by building 
 a WhatsApp bot that captures inquiries, books viewings, and logs 
 appointments into Google Sheets for real-time operational visibility 
