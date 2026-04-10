@@ -30,6 +30,23 @@ Helped a real estate agent eliminate manual scheduling by building
 a WhatsApp bot that captures inquiries, books viewings, and logs 
 appointments into Google Sheets for real-time operational visibility 
 — without requiring a CRM.
-
 **Stack:** Python · FastAPI · Twilio · Google Sheets API · Gemini  
 **[View Project →](https://github.com/Nneoma00/whatsapp_ai_bot/blob/main) or [View Demo →](https://www.linkedin.com/posts/nene-uche_python-automation-ai-activity-7416908437403631616-8Mj3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpkrkcBkO6335pEHiE0X7ZIYZP3K0xbyOE)**
+
+## 03 — Automated lead grading and deal routing: HubSpot workflow
+![Workflow Diagram](https://github.com/Nneoma00/revops-projects/blob/main/demos/hubspot-auto-workflow-diagram.png)
+
+Eliminated manual lead qualification by building a HubSpot workflow 
+that automatically grades contacts using a custom Python code node, 
+then routes them into deal pipelines based on conversion likelihood — 
+no human involvement required.
+
+Grade A contacts (score 35+) trigger high-value deal creation and SQL 
+lifecycle assignment. Grade B contacts generate standard deals at MQL 
+stage. Grade C contacts exit the workflow without cluttering the pipeline.
+
+**Stack:** HubSpot Workflows · Python code node · Deals API · 
+Contact lifecycle automation · CRM automation  
+**[View workflow (HubSpot screenshot →](https://github.com/Nneoma00/revops-projects/blob/main/demos/hubspot-workflow-screenshot.png)** 
+
+
