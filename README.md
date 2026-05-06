@@ -65,7 +65,15 @@ _**Stack:** HubSpot Workflows · Python code node · Deals API ·
 Contact lifecycle automation · CRM automation_  
 **[View workflow (HubSpot screenshot →](https://github.com/Nneoma00/revops-projects/blob/main/demos/hubspot-workflow-screenshot.png)** 
 
-## 04 — Revenue Forecasting Dashboard Case Study: Tableau + Google Sheets
+## 04 — Legal Recruitment Automation Pipeline
+![Workflow Diagram](https://github.com/Nneoma00/revops-projects/blob/main/demos/legal_recruiting_pipeline.png)
+
+Built a two-sided recruitment automation that eliminates manual candidate screening for legal recruiting firms.
+Candidates submit their profile — practice area, specialties, and YOE — and the system handles everything from there: logging the record, pulling the recruiter database, and passing both to an AI reasoning layer that identifies the closest match. Unlike rigid lookup logic, the AI handles dual specialties and partial experience fits the way a human recruiter would. The matched recruiter receives an AI-generated candidate summary, with the candidate CC'd automatically — both sides informed, no manual intervention.
+
+_**Stack:** Zapier · AI by Zapier · Google Forms · Zapier Tables · Gmail_  
+
+## 05 — Revenue Forecasting Dashboard Case Study: Tableau + Google Sheets
 <table>
   <tr>
     <td><img src="https://github.com/Nneoma00/revops-projects/blob/main/demos/tableau-chart-apple-revenue-forecast.png" width="400"/></td>
